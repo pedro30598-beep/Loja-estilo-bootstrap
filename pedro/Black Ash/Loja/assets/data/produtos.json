@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nome": "Cohiba Robusto",
+    "slug": "O ícone máximo dos charutos cubanos",
+    "imagem": "assets/images/cohiba.webp",
+    "descricao": "Produzido com folhas de tabaco selecionadas da região de Vuelta Abajo (a melhor de Cuba), o Cohiba passa por um processo exclusivo de fermentação tripla, o que resulta em uma fumaça mais suave, aromática e complexa.Cada charuto é feito à mão por artesãos experientes, garantindo uma queima uniforme e uma experiência premium do início ao fim. Caixa com 25 unidades.",
+    "preco": 14051.90,
+    "keywords": ["charuto", "cigarro", "cohiba"]
+  },
+  {
+    "id": 2,
+    "nome": "Montecristo",
+    "slug": "Charuto Cubano Clássico",
+    "imagem": "assets/images/montecristo.jpg",
+    "descricao": "Experimente a sofisticação e tradição de Cuba com o charuto Montecristo. Reconhecido mundialmente, este charuto oferece uma experiência rica e equilibrada, com notas suaves de café, cacau e um leve toque de especiarias. Ideal tanto para iniciantes quanto para apreciadores experientes, o Montecristo combina aroma, sabor e construção impecável em cada tragada.",
+    "preco": 1750,
+    "keywords": ["charuto", "classico", "Montecristo"]
+  },
+  {
+    "id": 3,
+    "nome": "Romeo y Julieta",
+    "slug": "Charuto Cubano perfumado",
+    "imagem": "assets/images/RomeuyJulieta.jpg",
+    "descricao": "Descubra a elegância e tradição de Cuba com o charuto Romeo y Julieta. Reconhecido mundialmente, este charuto oferece uma experiência suave e equilibrada, com notas delicadas de café, madeira e um toque levemente frutado. Ideal tanto para iniciantes quanto para conhecedores experientes, o Romeo y Julieta combina aroma refinado e qualidade excepcional em cada tragada.",
+    "preco": 2560,
+    "keywords": ["charuto", "classico", "Montecristo"]
+  },
+    {
+    "id": 5,
+    "nome": "Partagás",
+    "slug": "O Charuto Cubano de Sabor Robusto",
+    "imagem": "assets/images/Partagas.jpg",
+    "descricao": "O Partagás é um dos charutos mais icônicos de Cuba, celebrado por sua tradição, força e sabor encorpado. Produzido com tabacos selecionados da lendária região de Vuelta Abajo e enrolado à mão por mestres charuteiros, o Partagás entrega uma experiência rica e complexa em cada tragada. Com notas profundas de terra, especiarias, couro e madeira, este charuto é ideal para momentos especiais, degustações prolongadas ou celebração de conquistas.",
+    "preco": 1750,
+    "keywords": ["charuto", "classico", "Montecristo"]
+  }
+]
