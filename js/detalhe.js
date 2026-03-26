@@ -25,7 +25,7 @@ async function buscarProdutos() {
 function mostrarDetalhes(produto) {
     detalheProduto.innerHTML = `
         <div class="card text-center bg-dark text-light mb-4" style="width: 45rem;">
-            <img src="../${produto.imagem}" alt="${produto.nome}" class="card-img-top img-fluid">
+            <img src="../${produto.imagem}" alt="Imagem do charuto ${produto.nome}" class="card-img-top img-fluid">
             <div class="card-body">
                 <h1 class="card-title"><u>${produto.nome}</u></h1>
                 <p class="card-text">${produto.descricao}</p>
